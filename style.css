@@ -30,7 +30,6 @@ body::before {
 img
 {
     border-radius: 20%;
-    
     background-color: rgb(243, 242, 242);
 }
 .logo
@@ -38,27 +37,32 @@ img
     mix-blend-mode: multiply;
     max-width: 80px;
     margin-right: 50px;
+    margin-left: 160px;
 }
 .logo1
 {
     mix-blend-mode: multiply;
     max-width: 80px;
-    background-color: red;
+    width: 190px;
     margin-right: 50px;
+    margin-left: 60px;
+    margin-bottom: 10px;
 }
 .logo2
 {
     mix-blend-mode: multiply;
     background-image: transparent;
-    width:100px;
+    width:120px;
     margin-right: 50px;
+    margin-left: 40px;
 }
 .logo3
 {
     mix-blend-mode: multiply;
     background-image: transparent;
-    width:100px;
+    width:150px;
     margin-right: 50px;
+    margin-left: 30px;
 }
 .logo4
 {
@@ -66,6 +70,78 @@ img
     background-image: transparent;
     width:100px;
     margin-right: 50px;
+    margin-left: 40px;
+}
+.logo5
+{
+    mix-blend-mode: multiply;
+    background-image: transparent;
+    width:150px;
+    margin-right: 40px;
+    margin-left: 30px;
+}
+.logo6
+{
+    mix-blend-mode: multiply;
+    background-image: transparent;
+    width: 190px;px;
+    margin-left: 40px;
+    margin-right: 60px;
+    margin-bottom: -20px;
+}
+.logo7
+{
+    mix-blend-mode: multiply;
+    background-image: transparent;
+    width:160px;
+    margin-bottom: -40px;
+    margin-left: 20px;
+}
+.logo8
+{
+    mix-blend-mode: multiply;
+    background-image: transparent;
+    width:120px;
+    margin-bottom: -20px;
+    margin-left: 130px;
+}
+.logo9
+{
+    mix-blend-mode: multiply;
+    background-image: transparent;
+    width:120px;
+    margin-left: 20px;
+}
+.logo10
+{
+    mix-blend-mode: multiply;
+    background-image: transparent;
+    width:120px;
+    margin-left: 30px;
+}
+.logo11
+{
+    mix-blend-mode: multiply;
+    background-image: transparent;
+    width:120px;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+.logo12
+{
+    mix-blend-mode: multiply;
+    background-image: transparent;
+    width:130px;
+    margin-left: 70px;
+    margin-top: 80px;
+}
+.logo13
+{
+    mix-blend-mode: multiply;
+    background-image: transparent;
+    width:130px;
+    margin-left: 70px;
+    margin-top: 80px;
 }
 .head
 {
